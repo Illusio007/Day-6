@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+    border: 3px solid red;
+    margin: 10px 150px 10px 150px;
+}
+.header{
+    border: 2px solid green;
+    height: 150px;
+    background-color: aqua;
+}
+.main-nav{
+    border: 2px solid brown;
+    height:  80px;
+    background-color: tan;
+}
+.content{
+    border: 2px solid red;
+    height: 550px;
+    background-color: yellow;
+}
+.footer{
+    border:  2px solid red;
+    height: 80px;
+    background-color: grey;
+}
